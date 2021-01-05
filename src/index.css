@@ -1,0 +1,19 @@
+* {
+  margin: 0;
+}
+
+body {
+  /* background-color: rgb(234, 237, 237); */
+  background-image: url(https://m.media-amazon.com/images/S/abs-image-upload-na/f/AmazonStores/ATVPDKIKX0DER/dc5694ff25f54fca65abf390ef56628e.w1500.h1500._CR0%2C0%2C1500%2C1500_SX750_SY750_.png);
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
